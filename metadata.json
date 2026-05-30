@@ -1,0 +1,6 @@
+{
+  "name": "SS Social Post Dashboard",
+  "description": "Multi-platform social media composer and optimizer with responsive scheduling, analytics tracker, and PDF export reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
